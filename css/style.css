@@ -1,0 +1,9 @@
+body {
+	padding-top:200px;
+	background: url('http://i.imgur.com/hTKW3xj.jpg') no-repeat fixed;
+	background-size: cover;
+}
+.progress {
+	height: 40px;
+	border-radius:16px
+}
